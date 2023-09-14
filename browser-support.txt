@@ -1,4 +1,4 @@
 Chrome
 Firefox
 Edge
-#The user should not use Edge if at all possible
+#Do not use Edge
